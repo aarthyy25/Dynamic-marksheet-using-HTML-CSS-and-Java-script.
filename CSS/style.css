@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: calibri;
+}
+.section{
+    padding: 10px;
+}
+.container{
+    border: 5px solid rgb(234, 222, 117);
+    background-color:lemonchiffon;
+    padding: 20px;
+  
+}
+.sr h2{
+    font-size: 18px;
+}
+.sr h2 span{
+    color: red;
+}
+.logo img{
+    width: 100px;
+    height: 120px;
+    position: absolute;
+    left: 38rem;
+}
+.scanner img{
+    width: 120px;
+    height: 140px;
+    position: relative;
+    left: 14.5rem;
+}
+.center{
+    color: black;
+}
+.heading{
+    padding: 10px 0;
+    width: 100%;
+    text-align: center;
+    color: rgb(116, 26, 26);
+}
+.heading h1{
+    font-family:Arial;
+    font-size: 38px;
+    font-weight: 600;
+}
+.heading h3{
+    font-size: 21px;
+    font-family:Cambria;
+    font-weight: 700;
+}
+.heading1 h1{
+    font-size: 38px;
+    text-align: center;
+    color: rgb(124, 119, 11);
+    font-family: 'Times New Roman';
+    font-weight: 700;
+}
+table td{
+    border: 2px solid rgb(124, 119, 11);
+    padding: 10px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px; 
+}
+.table td{
+    color: rgb(124, 119, 11);
+}
+.table span{
+    color: black;
+} 
+.head1 td{
+    color: rgb(124, 119, 11);
+}
+.left{
+    text-align: left;
+    border-top: none;
+}
+.left span{
+    float: right;
+}
+button{
+    border: 1px solid rgb(124, 119, 11);
+    background-color: lemonchiffon;
+}
+button:hover{
+    background-color: rgb(124, 119, 11) ;
+    color: white;
+}
+.heading2{
+    text-align: center;
+    color: rgb(124, 119, 11);
+}
+.sign{
+    padding-top: 35px;
+}
+.date h3{
+    color: rgb(124, 119, 11);
+    font-size: 20px;
+    width: 100%;
+}
+.date span{
+    color: black;
+}
+.sign1,.sign{
+    text-align: right;
+}
+.sign h3 span{
+    font-family: arial;
+    font-size: 23px;
+    position: relative;
+    right: 150px;
+}
+.bottom h3{
+    font-size: 20px;
+    color: rgb(124, 119, 11);
+    text-align: center;
+}
+table input{
+    width: 130px;
+    border: none;
+    background-color: lemonchiffon;
+    text-align: center;
+}
+input:focus{
+    border: none;
+}
+.sub{
+    text-align: left;
+}
+.qr img{
+    position: relative;
+    left: 300px;
+    height: 100px;
+    width: 100px;
+}
+.logo img{
+    height: 100px;
+    width: 100px;
+}
